@@ -1,0 +1,2 @@
+C:\Repositorios\netScreenSaver\ProtectorPantalla\bin\Release\net9.0-windows\win-x64\publish\ProtectorPantalla.pdb
+C:\Repositorios\netScreenSaver\ProtectorPantalla\bin\Release\net9.0-windows\win-x64\publish\ProtectorPantalla.exe
