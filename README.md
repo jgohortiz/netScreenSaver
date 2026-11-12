@@ -12,6 +12,10 @@ Protector de pantalla para Windows desarrollado en C# con Windows Forms sobre .N
 - Compatible con los modos estándar de protector de pantalla de Windows: pantalla completa, vista previa y configuración.
 - Se cierra al pulsar una tecla, hacer clic o mover el ratón.
 
+> [!IMPORTANT]
+> **Imágenes a mostrar**: Los siguientes archivos deben existir en el equipo: 'c:\OEMInfo\netScreenSaverBanner.png' (Por defecto esta deshabilitado pero debe existir) y 'c:\OEMInfo\netScreenSaverLogo.png'.
+
+
 ## Requisitos
 
 - Windows 10 u 11 (x64).
